@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Button"
+    - label: "Let's go"
       url: "/sample/"
 excerpt: " "
 intro:
