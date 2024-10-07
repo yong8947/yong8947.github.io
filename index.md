@@ -1,12 +1,12 @@
 ---
-title: "Let me introduce myself."
+title: "My title."
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Let's go"
+    - label: "button"
       url: "/sample/"
 excerpt: " "
 intro:
@@ -17,7 +17,6 @@ intro:
 
 ## Introduce
 
-HyunWoo Lee
-dapartment: AI
+Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
