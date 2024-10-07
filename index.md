@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "Let me introduce myself."
 layout: splash
 header:
   overlay_color: "#fff"
@@ -15,8 +15,9 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## Introduce
 
-Body
+HyunWoo Lee
+dapartment: AI
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
