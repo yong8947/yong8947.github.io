@@ -17,7 +17,7 @@ intro:
 
 ## Introduce
 
-HyunWoo Lee
+HyunWoo Lee\n
 dapartment: AI
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
