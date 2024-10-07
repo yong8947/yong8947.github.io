@@ -1,12 +1,12 @@
 ---
-title: "MyTitle."
+title: "My Introduce."
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Button"
+    - label: "Hi"
       url: "/sample/"
 excerpt: " "
 intro:
@@ -15,8 +15,9 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## Introduce
 
-Body
+HyunWoo Lee
+AI
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
